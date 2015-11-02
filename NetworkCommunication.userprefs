@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="NetworkCommunication.Android\NetworkCommunication.Android.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.da2b55f9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkCommunication.Android\Activities\ClientActivity.cs">
+    <Files>
+      <File FileName="NetworkCommunication.Android\Activities\ServerActivity.cs" Line="1" Column="1" />
+      <File FileName="NetworkCommunication.Core\RemoteHost.cs" Line="1" Column="1" />
+      <File FileName="d:\Kondratiuk\Shared\NetworkCommunication\NetworkCommunication\NetworkCommunication.Core\SocketBroadcastClient.cs" Line="1" Column="1" />
+      <File FileName="NetworkCommunication.Core\SocketBroadcastServer.cs" Line="1" Column="1" />
+      <File FileName="NetworkCommunication.Android\Activities\ClientActivity.cs" Line="150" Column="1" />
+      <File FileName="NetworkCommunication.Android\Activities\MonoArrayAdapter.cs" Line="1" Column="1" />
+      <File FileName="NetworkCommunication.Core\SocketServer.cs" Line="1" Column="1" />
+      <File FileName="NetworkCommunication.Core\SerializationHelper.cs" Line="60" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NetworkCommunication.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
